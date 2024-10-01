@@ -12,11 +12,11 @@ body, html {
     position: relative;  
     height: 100%;  
     width: 100%;  
-    background-image: url('https://api.lqbby.com/api/dm');
+    background-image: url('https://api.suyanw.cn/api/comic/api.php');
     background-size: cover;  
     background-position: center;  
     background-repeat: no-repeat;  
-    /* 你可以在这里添加背景图片的CSS，或者使用JavaScript动态设置 */  
+    /* 在这里添加背景图片的CSS，或者使用JavaScript动态设置 */  
 }  
   
 .content {  
@@ -41,7 +41,7 @@ h1 {
 .links-list {  
     list-style: none;  
     padding: 0;  
-    text-align: left; /* 或者保持居中，根据你的设计需求 */  
+    text-align: left; /* 或者保持居中*/  
 }  
   
 .links-list li {  
