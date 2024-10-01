@@ -5,7 +5,6 @@ body, html {
     font-family: Arial, sans-serif;  
     color: #fff;  
     background-color: #000; /* 初始背景色为黑色，用于显示半透明效果 */  
-    overflow: hidden; /* 防止滚动条出现 */  
 }  
   
 .background-container {  
